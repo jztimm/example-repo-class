@@ -1,0 +1,5 @@
+Terminology
+-clone
+-repo = repository
+- push
+-staging/commiting
